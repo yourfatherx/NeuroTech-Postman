@@ -1,0 +1,10 @@
+____OUTPUT____
+
+Band with highest relative bandpower: Delta
+Relative bandpower: 0.58
+
+Delta absolute bandpower: 924.57
+Theta absolute bandpower: 384.51
+Alpha absolute bandpower: 152.78
+Beta absolute bandpower: 146.47
+​
