@@ -1,0 +1,6 @@
+COMMAND LINE OUTPUT
+
+python gpa_algo.py seq1.txt seq2.txt
+Alignment Score: -18
+Aligned Sequence 1: ----------ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Aligned Sequence 2: QWERTYUIOPA-SD-FGH-JKL------ZXCV-BNM
